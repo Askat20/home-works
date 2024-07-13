@@ -1,2 +1,2 @@
 console.log("hello askat")
-console.log("session1")
+console.log("session-1")
