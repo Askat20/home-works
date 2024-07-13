@@ -1,2 +1,1 @@
-console.log("hello askat")
-console.log("hello js-3")
+console.log("hello askat");
