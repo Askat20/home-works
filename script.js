@@ -1,2 +1,1 @@
-console.log("hello askat")
-console.log("session-1")
+console.log("hello session-1");
